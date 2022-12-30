@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.2.1",
-    "gatsby": "^2.0.76",
+    "gatsby": "^2.32.13",
     "gatsby-image": "^2.0.28",
     "gatsby-plugin-react-helmet": "^3.0.5",
     "gatsby-plugin-sharp": "^2.0.18",
